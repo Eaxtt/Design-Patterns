@@ -1,6 +1,6 @@
 # Design Patterns in C++
 
-A comprehensive collection of software design patterns implemented in C#. This repository demonstrates the classic Gang of Four design patterns, providing clear examples and explanations for each pattern.
+A comprehensive collection of software design patterns implemented in C++. This repository demonstrates the classic Gang of Four design patterns, providing clear examples and explanations for each pattern.
 
 ## Table of Contents
 
